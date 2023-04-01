@@ -1,1 +1,1 @@
-To jest plik README
+To jest plik README w nowym katalogu
